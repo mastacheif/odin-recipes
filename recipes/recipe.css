@@ -1,7 +1,13 @@
 li {margin-bottom: 15px;}
 
+.center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;}
 
-img {margin-left: 15px;}
+body{background-color: beige;}
+
     
 h1 {padding-bottom: 10px;
    text-align: center;}
